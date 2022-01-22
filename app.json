@@ -1,11 +1,11 @@
 {
-    "name": "AIRay-vless",
+    "name": "KUY",
     "description": "Deploy AIray VLESS on Heroku.",
     "keywords": ["V2Ray"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "b4821af5-19e6-47e0-8033-33613a9dad14"
+            "value": "7b83d7b9-2104-427f-9ce4-fb7676e30851"
         },
         "WSPATH": {
             "description": "WebSocket Path",
@@ -13,6 +13,6 @@
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/Hardbroke/AI-heroku-vless",
+    "repository": "https://github.com/TEbgtBgrta/VftwTYU-KUY",
     "stack": "container"
 }
